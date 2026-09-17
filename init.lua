@@ -5,3 +5,4 @@ require("shebang").setup({
   env = true,
   file_mode = "755",
 })
+vim.cmd([[colorscheme cobalt]])
